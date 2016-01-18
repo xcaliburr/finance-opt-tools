@@ -7,4 +7,4 @@ Getting Started
 .. toctree::
    :maxdepth: 1
 
-   import stuff
+   import
