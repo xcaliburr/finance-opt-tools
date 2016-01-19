@@ -22,7 +22,7 @@ Note of Importance, when adding a new document to the tree, make sure to MAKE CL
    manual/introduction
    manual/functions
 
-.. _tdlib:
+.. _stdlib:
 
 ##################
  Standard Library
