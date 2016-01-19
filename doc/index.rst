@@ -22,7 +22,7 @@ Note of Importance, when adding a new document to the tree, make sure to MAKE CL
    manual/introduction
    manual/functions
 
-.. _stdlib:
+.. _tdlib:
 
 ##################
  Standard Library
@@ -46,7 +46,8 @@ Developer Documentation
    devdocs/julia
 
  
- .. _tut:
+.. _tut:
+
 ########
 Tutorial
 ########
