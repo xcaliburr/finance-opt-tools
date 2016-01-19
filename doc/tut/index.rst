@@ -5,6 +5,13 @@ Getting Started
 ###############
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
-   import
+  import
+  init
+  data
+  modgen
+  const
+  methodsel
+  solve
+  output
