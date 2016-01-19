@@ -48,12 +48,19 @@ Developer Documentation
  
 .. _tut:
 
-########
-Tutorial
-########
+################
+Getting Started
+################
 
 .. toctree::
    :maxdepth: 2
 
    tut/import
+   tut/init
+   tut/data
+   tut/modgen
+   tut/const
+   tut/methodsel
+   tut/solve
+   tut/output
    
