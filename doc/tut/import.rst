@@ -2,4 +2,8 @@
 
 .. currentmodule:: Base
 
+************
+ Collections
+************
+
 This is how you import functions
